@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://th.bing.com/th/id/OIP.NlhnUhWOOcbPBXaREobKKQHaLY?rs=1&pid=ImgDetMain"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "_h-iqke",
+      "superhero": "Lechuguín",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Pablo Moreno",
+      "first_appearance": "Eafit 2015",
+      "characters": "Lechuguin",
+      "alt_img": "https://th.bing.com/th/id/OIP.ow3PHS9VvmwiVejG8gRawQHaH8?rs=1&pid=ImgDetMain"
     }
   ]
 }
